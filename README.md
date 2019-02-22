@@ -31,7 +31,7 @@ git commit -a -m "initial commit"
 
 ## Step 2: Create `stremio-addon.py`
 
-Let's start with our add-on basic functionality. Create `stremio-addon.rb` with the following contents:
+Let's start with our add-on basic functionality. Create `stremio-addon.py` with the following contents:
 
 ```python
 from flask import Flask, Response, jsonify, url_for, abort
