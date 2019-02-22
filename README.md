@@ -42,7 +42,7 @@ MANIFEST = {
     'version': '1.0.0',
 
     'name': 'Hello World Python Addon',
-    'description': 'Sample addon made with Express providing a few public domain movies',
+    'description': 'Sample addon made with Flask providing a few public domain movies',
 
     'types': ['movie', 'series'],
 
